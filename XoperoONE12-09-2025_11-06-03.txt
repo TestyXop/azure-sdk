@@ -1,0 +1,26 @@
+Adres e-mail: xoptesticeksfwnvacskaks@interia.pl
+ ------------------------------
+Tworzenie konta trial za pomocą strony Xopero.com: PASS
+Czas utworzenia konta XoperoOne: 16,535141 sekund
+Kontrola licencji + data ważności: PASS
+Kontrola dostępności magazynu w chmurze: FAIL
+Kontrola workera: FAIL
+Dodawanie repozytorium: PASS
+Tworzenie i uruchamianie planu: PASS
+Kontrola utworzenia backupów: FAIL
+Przywracanie zasobów przez magazyn: FAIL
+Przywracanie zasobów poprzez panel GIT: PASS
+Backup i restore organizacji JIRA: FAIL
+------------------------------
+Staty dla backupu GitHuba: 1 OK, 0 ostrzeżeń, 0 błędów
+Staty dla backupu GitLaba: 1 OK, 0 ostrzeżeń, 0 błędów
+Staty dla backupu Bitbucketa: 0 OK, 1 ostrzeżeń, 0 błędów
+Staty dla backupu AzureDevOpsa: 1 OK, 0 ostrzeżeń, 0 błędów
+Staty dla backupu Jiry: 0 OK, 1 ostrzeżeń, 0 błędów
+Staty dla restore'a GitHuba: 1 OK, 0 ostrzeżeń, 0 błędów
+Staty dla restore'a GitLaba: 1 OK, 0 ostrzeżeń, 0 błędów
+Staty dla restore'a Bitbucketa: 1 OK, 0 ostrzeżeń, 0 błędów
+Staty dla restore'a AzureDevOpsa: 1 OK, 0 ostrzeżeń, 0 błędów
+Staty dla restore'a Jiry:  OK,  ostrzeżeń,  błędów
+------------------------------
+Treść błędu dla Bitbucketa: Download: 2

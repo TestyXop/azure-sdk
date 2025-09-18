@@ -1,0 +1,11 @@
+------------------------------
+Tworzenie konta trial za pomocą Jira Marketplace: PASS
+Czas utworzenia usługi: 135,804553 sekund
+Kontrola licencji + data ważności: PASS
+Kontrola dostępności magazynu w chmurze: PASS
+Kontrola workera: PASS
+Dodawanie organizacji: PASS
+Tworzenie i uruchamianie planu: PASS
+Kontrola utworzenia backupów: PASS
+Przywracanie Jiry (przez panel w "DevOps"): PASS
+------------------------------
