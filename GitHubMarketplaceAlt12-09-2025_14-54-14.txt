@@ -1,0 +1,14 @@
+Adres e-mail: xoptest12091445@interia.pl
+ ------------------------------
+Tworzenie konta trial za pomocą GitHub Marketplace: PASS
+Czas utworzenia usługi: 54,5420631 sekund
+Kontrola licencji + data ważności: PASS
+Kontrola dostępności magazynu w chmurze: PASS
+Kontrola workera: PASS
+Dodawanie organizacji: PASS
+Tworzenie i uruchamianie planu: PASS
+Kontrola utworzenia backupów: PASS
+Przywracanie GitHuba (przez panel w "DevOps"): PASS
+Przywracanie GitHuba (z poziomu magazynu): PASS
+Przekierowanie do GitHub Marketplace: PASS
+------------------------------
