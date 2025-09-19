@@ -1,0 +1,27 @@
+Adres e-mail: xoptestraauzsglaneookdr@interia.pl
+ ------------------------------
+Tworzenie konta trial za pomocą strony Gitprotect.io: PASS
+Czas utworzenia konta GitProtect: 14,2702344 sekund
+Kontrola licencji + data ważności: PASS
+Kontrola dostępności magazynu w chmurze: PASS
+Kontrola workera: PASS
+Dodawanie repozytorium: PASS
+Tworzenie i uruchamianie planu: FAIL
+Kontrola utworzenia backupów: FAIL
+Przywracanie zasobów przez magazyn: PASS
+Przywracanie zasobów poprzez panel GIT: PASS
+Przekierowanie do panelu zakupowego: PASS
+Backup i restore organizacji JIRA: PASS
+------------------------------
+Staty dla backupu GitHuba: 1 OK, 0 ostrzeżeń, 0 błędów
+Staty dla backupu GitLaba: 1 OK, 0 ostrzeżeń, 0 błędów
+Staty dla backupu Bitbucketa: 0 OK, 1 ostrzeżeń, 0 błędów
+Staty dla backupu AzureDevOpsa: 1 OK, 0 ostrzeżeń, 0 błędów
+Staty dla backupu Jiry: 1 OK, 0 ostrzeżeń, 0 błędów
+Staty dla restore'a GitHuba: 1 OK, 0 ostrzeżeń, 0 błędów
+Staty dla restore'a GitLaba: 1 OK, 0 ostrzeżeń, 0 błędów
+Staty dla restore'a Bitbucketa: 1 OK, 0 ostrzeżeń, 0 błędów
+Staty dla restore'a AzureDevOpsa: 1 OK, 0 ostrzeżeń, 0 błędów
+Staty dla restore'a Jiry: 1 OK, 0 ostrzeżeń, 0 błędów
+------------------------------
+Treść błędu dla Bitbucketa: Download: 2
